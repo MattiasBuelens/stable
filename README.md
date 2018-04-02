@@ -13,8 +13,8 @@ MIT licensed.
 Include [`stable.js`] or the minified version [`stable.min.js`]
 in your page, then call `stable()`.
 
- [`stable.js`]: https://raw.github.com/MattiasBuelens/stable/master/dist/stable.js
- [`stable.min.js`]: https://raw.github.com/MattiasBuelens/stable/master/dist/stable.min.js
+ [`stable.js`]: https://unpkg.com/@mattiasbuelens/stable/dist/stable.js
+ [`stable.min.js`]: https://unpkg.com/@mattiasbuelens/stable/dist/stable.min.js
 
 #### From Node.js
 
